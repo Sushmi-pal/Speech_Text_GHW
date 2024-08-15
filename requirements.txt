@@ -1,5 +1,7 @@
 datasets
+transformers
 gradio
 scipy
-IPython
 torch
+accelerate==0.33.0
+torchaudio==2.4.0
